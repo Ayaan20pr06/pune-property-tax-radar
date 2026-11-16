@@ -1,0 +1,19 @@
+PROPERTY-TAX GAP RADAR — PROOF-OF-CONCEPT RESULTS
+
+Wards modelled: 60
+Cross-validated R² (log demand): 0.691
+Cross-validated MAE: ₹100,030
+Estimated aggregate demand gap: ₹2,636,678
+Validation AUC against independently surveyed gap label: 1.000
+
+Top wards to inspect first:
+ 1. Ward 49 — estimated gap ₹318,592; score 99.6/100
+ 2. Ward 21 — estimated gap ₹483,476; score 98.8/100
+ 3. Ward 28 — estimated gap ₹342,547; score 96.7/100
+ 4. Ward 14 — estimated gap ₹311,228; score 94.6/100
+ 5. Ward 56 — estimated gap ₹186,770; score 92.9/100
+ 6. Ward 35 — estimated gap ₹179,463; score 92.5/100
+ 7. Ward 42 — estimated gap ₹193,137; score 90.0/100
+ 8. Ward 7 — estimated gap ₹117,664; score 88.3/100
+ 9. Ward 25 — estimated gap ₹126,553; score 83.3/100
+10. Ward 58 — estimated gap ₹70,591; score 78.8/100

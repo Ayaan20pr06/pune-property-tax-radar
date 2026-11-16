@@ -1,0 +1,25 @@
+ward_id,admin_ward_id,admin_ward_name,evidence
+Aundh,01,Admin Ward 01 Aundh,Exact name match
+Baner,01,Admin Ward 01 Aundh,pune-wards-info Ward 09 lists Baner Gaonthan under Aundh
+Bhavani Peth,12,Admin Ward 12 Bhavani Peth,Exact name match
+Bibwe Wadi,11,Admin Ward 11 Bibwewadi,Exact name match after spacing normalization
+Chandan Nagar,07,Admin Ward 07 Nagar Road,pune-wards-info Ward 02 lists Chandan Nagar under Nagar Road
+Dhankawadi,14,Admin Ward 14 Dhankawadi,Exact name match
+Dhayari,09,Admin Ward 09 Tilak Road,pune-wards-info Ward 54 lists dhayari under Tilak Road
+Dhole Patil Road,05,Admin Ward 05 Dhole Patil Rd,Exact name match after abbreviation normalization
+Ghole Road,02,Admin Ward 02 Ghole Road,Exact name match
+Hadapsar,13,Admin Ward 13 Hadapsar,Exact name match
+Hingne,04,Admin Ward 04 Warje Karvenagar,pune-wards-info Ward 32 lists Hingane under Warje Karvenagar
+Kasba Peth,08,Admin Ward 08 KasbaVishrambaugwada,Office and polygon name contains Kasba
+Katraj,14,Admin Ward 14 Dhankawadi,pune-wards-info Wards 75 and 76 list Katraj under Dhankawadi
+Kondhwa,15,Admin Ward 15 Kondhwa Wanavdi,Exact name match
+Kothrud,03,Admin Ward 03 Kothrud Karveroad,Exact name match
+Nagar Road(Vadgaonsheri),07,Admin Ward 07 Nagar Road,Exact name match after parenthetical qualifier
+Sahakar Nagar,10,Admin Ward 10 Sahakarnagar,Exact name match after spacing normalization
+Sangam Wadi,06,Admin Ward 06 Yerawda - Sangamwadi,Exact name match after spacing normalization
+Tilak Road,09,Admin Ward 09 Tilak Road,Exact name match
+Vadgaon Bk,09,Admin Ward 09 Tilak Road,pune-wards-info Wards 54 and 55 list Vadgaon Budruk under Tilak Road
+Vadgaonsheri,07,Admin Ward 07 Nagar Road,pune-wards-info Wards 18 and 19 list Vadgaon Sheri under Nagar Road
+Vishrambaug Wada,08,Admin Ward 08 KasbaVishrambaugwada,Office and polygon name contains Vishrambaug
+Warje,04,Admin Ward 04 Warje Karvenagar,Exact name match
+Yewalewadi,15,Admin Ward 15 Kondhwa Wanavdi,pune-wards-info Ward YW assigns Kondhwa Wanavdi

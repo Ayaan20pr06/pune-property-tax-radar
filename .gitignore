@@ -1,0 +1,8 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+
+# This is a separate checkout of the public source repository. Recreate it
+# with `python3 clone_pune_wards.py` after cloning this repository.
+data/raw/pune_wards/

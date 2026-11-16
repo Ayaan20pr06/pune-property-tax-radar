@@ -1,0 +1,21 @@
+PUNE SCREENING RESULTS (HYPOTHESIS)
+
+n: 15
+Ward match check: 15 tax rows, 15 building rows, 15 polygons — PASS
+Zero-building check: PASS
+Total built area: 39,802,593 m²
+Polygon area (local approximation): 250,746,084 m²
+Built-area share of polygon area: 15.874%
+
+log(total ARV) ~ log(built area)
+Spearman rho: 0.300
+R-squared: 0.222
+95% bootstrap interval for rho (2,000 resamples): [-0.432, 0.833]
+
+log(total ARV) ~ log(volume)
+Spearman rho: 0.382
+R-squared: 0.284
+
+Is built-area rho below 0.7? YES — rho below 0.7; state this plainly.
+
+Ranking label: screening priority (hypothesis). Lower leave-one-out residual means lower ARV relative to built area.
